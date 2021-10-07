@@ -10,10 +10,10 @@ docker-compose up -d
 
 ## Image demo
 - run compose
-![](https://imgur.com/yqA4JXJ)
+![](./img/yqA4JXJ%20-%20Imgur.png)
 
 - go to: 127.0.0.1
-![](https://imgur.com/OYM1ZQb)
+![](./img/OYM1ZQb%20-%20Imgur.png)
 
 
 
